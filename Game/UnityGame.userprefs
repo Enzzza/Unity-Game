@@ -1,0 +1,19 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\Igrac.cs">
+    <Files>
+      <File FileName="Assets\Scripts\Igrac.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\PlayerMovement.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\GuiDisplay.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\TurnOffFire.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\SwitchCamera.cs" Line="11" Column="4" />
+      <File FileName="Assets\Scripts\Finish.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\LevelChanger.cs" Line="17" Column="27" />
+      <File FileName="Assets\Scripts\Menu.cs" Line="17" Column="40" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
