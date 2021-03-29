@@ -3,4 +3,5 @@
 <br>
 <br>
 <br>
-![gameplay](https://github.com/Enzzza/unity-game/blob/main/media/gameplay.gif)
+
+<img src="https://github.com/Enzzza/unity-game/blob/main/media/gameplay.gif?raw=true" alt="gameplay gif" title="gameplay gif" width="500"/>
